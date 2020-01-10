@@ -20,6 +20,7 @@ public class Loops_for_while {
 		}
 		
 		//if _else practice stars from here.
+		//Made second change now.
 		
 		int a =10;
 		int b =20;
